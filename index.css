@@ -1,0 +1,29 @@
+.nav-item-cst {
+  position: absolute;
+  left: 50%;
+  transform: translatex(-50%);
+}
+.nav-button {
+  margin: auto 0 auto auto;
+  border-radius: 10px;
+  border: none;
+  height: 40px;
+  width: 150px;
+  background-color: #ffcecf;
+  font-size: 15px;
+  padding: 5px;
+}
+.list-item {
+  width: 60%;
+  background-color: #f9f9f9;
+}
+
+.list-item-content {
+  width: 600px;
+  height: 60px;
+  padding: 10px 10px;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  justify-content: space-evenly;
+}
